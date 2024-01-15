@@ -1,1 +1,0 @@
-import{c as a,a as e,F as t,o,H as s,S as c}from"./index-NTrNVkpp.js";const n={components:"HomeView"},i=Object.assign(n,{__name:"AboutView",setup(r){return(_,m)=>(o(),a(t,null,[e(s,{appName:"Sagar Nandy"}),e(c)],64))}});export{i as default};
